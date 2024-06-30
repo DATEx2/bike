@@ -1,0 +1,7 @@
+{
+	folders: "LOADERS,BARS,NECO,AIRFx",
+	exclude: {
+		"Bars/Foldablex1.*": ["NECO/.*"],
+		"Loaders/.*": ["Bars/Foldablex1.*"],
+	}
+}
