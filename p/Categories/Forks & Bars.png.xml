@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rdf:RDF xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'>
+
+<rdf:Description rdf:about='d:/DATEx2.bike/GitHub/bike/p/Categories/Forks &amp; Bars.png'
+  xmlns:et='http://ns.exiftool.org/1.0/' et:toolkit='Image::ExifTool 12.52'
+  xmlns:ExifTool='http://ns.exiftool.org/ExifTool/1.0/'
+  xmlns:System='http://ns.exiftool.org/File/System/1.0/'
+  xmlns:File='http://ns.exiftool.org/File/1.0/'
+  xmlns:PNG='http://ns.exiftool.org/PNG/PNG/1.0/'
+  xmlns:PNG-pHYs='http://ns.exiftool.org/PNG/PNG-pHYs/1.0/'
+  xmlns:XMP-dc='http://ns.exiftool.org/XMP/XMP-dc/1.0/'
+  xmlns:XMP-Attrib='http://ns.exiftool.org/XMP/XMP-Attrib/1.0/'
+  xmlns:XMP-pdf='http://ns.exiftool.org/XMP/XMP-pdf/1.0/'
+  xmlns:XMP-xmp='http://ns.exiftool.org/XMP/XMP-xmp/1.0/'
+  xmlns:Composite='http://ns.exiftool.org/Composite/1.0/'>
+ <ExifTool:ExifToolVersion>12.52</ExifTool:ExifToolVersion>
+ <System:FileName>Forks &amp; Bars.png</System:FileName>
+ <System:Directory>d:/DATEx2.bike/GitHub/bike/p/Categories</System:Directory>
+ <System:FileSize>13 MB</System:FileSize>
+ <System:ZoneIdentifier>Exists</System:ZoneIdentifier>
+ <System:FileModifyDate>2023:06:09 14:58:23+02:00</System:FileModifyDate>
+ <System:FileAccessDate>2024:06:03 00:54:28+02:00</System:FileAccessDate>
+ <System:FileCreateDate>2023:06:09 14:58:23+02:00</System:FileCreateDate>
+ <System:FilePermissions>-rw-rw-rw-</System:FilePermissions>
+ <File:FileType>PNG</File:FileType>
+ <File:FileTypeExtension>png</File:FileTypeExtension>
+ <File:MIMEType>image/png</File:MIMEType>
+ <PNG:ImageWidth>5333</PNG:ImageWidth>
+ <PNG:ImageHeight>4000</PNG:ImageHeight>
+ <PNG:BitDepth>8</PNG:BitDepth>
+ <PNG:ColorType>RGB with Alpha</PNG:ColorType>
+ <PNG:Compression>Deflate/Inflate</PNG:Compression>
+ <PNG:Filter>Adaptive</PNG:Filter>
+ <PNG:Interlace>Noninterlaced</PNG:Interlace>
+ <PNG-pHYs:PixelsPerUnitX>3780</PNG-pHYs:PixelsPerUnitX>
+ <PNG-pHYs:PixelsPerUnitY>3780</PNG-pHYs:PixelsPerUnitY>
+ <PNG-pHYs:PixelUnits>meters</PNG-pHYs:PixelUnits>
+ <PNG:Comment>xr:d:DAFklVpVc2E:165,j:1986480324703210586,t:23060912</PNG:Comment>
+ <XMP-dc:Title>DATEx2 categories - Forks &amp; Bars</XMP-dc:Title>
+ <XMP-Attrib:AdsCreated>2023-06-09</XMP-Attrib:AdsCreated>
+ <XMP-Attrib:AdsExtId>87e5851c-26e7-4af7-b267-fefbc8a5aca4</XMP-Attrib:AdsExtId>
+ <XMP-Attrib:AdsFbId>525265914179580</XMP-Attrib:AdsFbId>
+ <XMP-Attrib:AdsTouchType>2</XMP-Attrib:AdsTouchType>
+ <XMP-pdf:Author>Laurențiu Macovei</XMP-pdf:Author>
+ <XMP-xmp:CreatorTool>Canva</XMP-xmp:CreatorTool>
+ <Composite:ImageSize>5333x4000</Composite:ImageSize>
+ <Composite:Megapixels>21.3</Composite:Megapixels>
+</rdf:Description>
+</rdf:RDF>

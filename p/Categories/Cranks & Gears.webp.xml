@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rdf:RDF xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'>
+
+<rdf:Description rdf:about='d:/DATEx2.bike/GitHub/bike/p/Categories/Cranks &amp; Gears.webp'
+  xmlns:et='http://ns.exiftool.org/1.0/' et:toolkit='Image::ExifTool 12.52'
+  xmlns:ExifTool='http://ns.exiftool.org/ExifTool/1.0/'
+  xmlns:System='http://ns.exiftool.org/File/System/1.0/'
+  xmlns:File='http://ns.exiftool.org/File/1.0/'
+  xmlns:RIFF='http://ns.exiftool.org/RIFF/RIFF/1.0/'
+  xmlns:Composite='http://ns.exiftool.org/Composite/1.0/'>
+ <ExifTool:ExifToolVersion>12.52</ExifTool:ExifToolVersion>
+ <System:FileName>Cranks &amp; Gears.webp</System:FileName>
+ <System:Directory>d:/DATEx2.bike/GitHub/bike/p/Categories</System:Directory>
+ <System:FileSize>767 kB</System:FileSize>
+ <System:FileModifyDate>2023:06:01 23:11:47+02:00</System:FileModifyDate>
+ <System:FileAccessDate>2024:06:03 00:54:27+02:00</System:FileAccessDate>
+ <System:FileCreateDate>2023:06:01 23:11:47+02:00</System:FileCreateDate>
+ <System:FilePermissions>-rw-rw-rw-</System:FilePermissions>
+ <File:FileType>WEBP</File:FileType>
+ <File:FileTypeExtension>webp</File:FileTypeExtension>
+ <File:MIMEType>image/webp</File:MIMEType>
+ <RIFF:VP8Version>0 (bicubic reconstruction, normal loop)</RIFF:VP8Version>
+ <RIFF:ImageWidth>8000</RIFF:ImageWidth>
+ <RIFF:HorizontalScale>0</RIFF:HorizontalScale>
+ <RIFF:ImageHeight>6000</RIFF:ImageHeight>
+ <RIFF:VerticalScale>0</RIFF:VerticalScale>
+ <Composite:ImageSize>8000x6000</Composite:ImageSize>
+ <Composite:Megapixels>48.0</Composite:Megapixels>
+</rdf:Description>
+</rdf:RDF>
