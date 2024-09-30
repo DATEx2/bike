@@ -1,8 +1,8 @@
 {
-	folders: "LOADERS,X-TEMSx1,BARS,NECO,AIRFx",
+	folders: "X-TEMSx1-for-BMX,BARS,NECO,AIRFx",
 	exclude: {
-		"Bars/Foldablex1.*": ["NECO/.*"],
-		"Loaders/.*": ["Bars/Foldablex1.*"],
-		"X-TEMSx1/.*": ["Bars/Foldablex1.*"],
+		"Bars/Foldablex1.*": ["NECO/.*", "X-TEMSx1-for-BMX/.*"],
+		"NECO/.*": ["Bars/Foldablex1.*"],
+		"X-TEMSx1-for-BMX/.*": ["Bars/Foldablex1.*"],
 	}
 }
