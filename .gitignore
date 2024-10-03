@@ -397,4 +397,5 @@ FodyWeavers.xsd
 # JetBrains Rider
 *.sln.iml
 *.CR3
-/p/Combo/BarsAndLoaders/OUT
+/p/Combo/BarsAndLoaders/OUT/old
+/p/Combo/BarsAndLoaders/OUT/f
