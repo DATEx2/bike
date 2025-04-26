@@ -399,3 +399,5 @@ FodyWeavers.xsd
 *.CR3
 /p/Combo/BarsAndLoaders/OUT/old
 /p/Combo/BarsAndLoaders/OUT/f
+/p/THUMBS
+/css/
